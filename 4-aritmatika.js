@@ -18,10 +18,10 @@ console.log(9 / 3); // Hasil 3
 console.log(11 % 3) // Hasil 2\n`)
 
 console.log('Kode: console.log(19+3.5)')
-console.log(19+3.5)
+console.log(19+3.5) //kode
 console.log('\nKode: console.log(2020-1969)')
-console.log(2020-1969)
+console.log(2020-1969)//kode
 console.log('\nKode: console.log(65/240)')
-console.log(65/240)
+console.log(65/240)//kode
 console.log('\nKode: console.log(0.2708*100)')
-console.log(0.2708*100)
+console.log(0.2708*100)//kode

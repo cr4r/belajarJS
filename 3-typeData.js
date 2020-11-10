@@ -14,31 +14,31 @@ Integer: Angka apa pun, termasuk angka dengan desimal: 4, 8, 1516, 23.42.
 
 console.log('Dibawah ini type data Integer')
 console.log('Kode: console.log(2011)')
-console.log(2011)
+console.log(2011)//kode
 
 console.log('\nDibawah ini type data String')
 console.log('Kode: console.log(\'Ini string\')')
-console.log('Ini string')
+console.log('Ini string')//kode
 
 console.log('\nDibawah ini type data undifined')
 console.log('Kode: console.log(undefined)')
-console.log(undefined)
+console.log(undefined)//kode
 
 console.log('\nDibawah ini type data null')
 console.log('Kode: console.log(null)')
-console.log(null)
+console.log(null)//kode
 
 console.log('\nDibawah ini type data Bolean')
 console.log('Kode: console.log(1==1)')
-console.log(1==1)
+console.log(1==1)//kode
 
 console.log('\n\n//Bonus')
 console.log('kode: console.log(\'\"Hai kak\"\')')
-console.log('\"Hai kak\"')
+console.log('\"Hai kak\"')//kode
 
 console.log('\nkode: console.log(20.3040)')
-console.log(20.3040);
+console.log(20.3040);//kode
 
 a = 'Halo ini variabel a'
-console.log('\nkode: a = \'Halo ini variabel a\'\nconsole.log(${a})')
-console.log(`${a}`)
+console.log('\nkode: a = \'Halo ini variabel a\'\nconsole.log(${a})')//kode
+console.log(`${a}`)//kode

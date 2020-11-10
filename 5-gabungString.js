@@ -6,6 +6,6 @@ console.log('siapa' + 'aku')
 console.log('I love to ' + 'js.')\n`)
 
 console.log(`kode: console.log('hallo'+' beb')`)
-console.log('hallo'+' beb')
+console.log('hallo'+' beb')//kode
 console.log(`\nkode: console.log('hallo'+' beb'+' Aku sedang'+' belajar JS')`)
-console.log('hallo'+' beb'+' Aku sedang'+' belajar JS')
+console.log('hallo'+' beb'+' Aku sedang'+' belajar JS')//kode

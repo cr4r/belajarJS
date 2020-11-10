@@ -5,4 +5,4 @@
 /*Saat kita menulis JavaScript, kita dapat menulis komentar dalam kode kita yang akan diabaikan oleh komputer saat program kita berjalan.
 Komentar ini ada hanya untuk pembaca manusia.*/
 
-console.log('Hai dunia'/*anda bisa menggunakan komen disini juga*/)
+console.log('Hai dunia'/*anda bisa menggunakan komen disini juga*/)//kode
