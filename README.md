@@ -7,3 +7,14 @@ besar browser web modern, dan kebiasaan awalnya memberinya sedikit reputasi buru
 Karena JavaScript tetap menjadi inti dari pengembangan web, JavaScript sering kali menjadi bahasa pertama yang dipelajari oleh pembuat<br>
 kode otodidak yang ingin belajar dan membangun. <br>
 Dalam pelajaran ini, Anda akan mempelajari konsep pengkodean pengantar termasuk tipe data dan objek bawaan — pengetahuan penting untuk semua calon pengembang. Pastikan untuk membuat catatan dan mengatur kecepatan Anda sendiri. Landasan ini akan mempersiapkan Anda untuk memahami konsep yang lebih kompleks yang akan Anda temui nanti.
+<br><br>
+##Install Node
+Untuk install Nodejs anda bisa menginstall nya di distro debian/ubuntu<br>
+```bash
+sudo apt install nodejs -y
+```
+atau
+```bash
+sudo su
+./installNode
+```
