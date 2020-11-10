@@ -1,4 +1,4 @@
-/*Operator Aritmatika
+console.log(`Operator Aritmatika
 Aritmatika dasar sering kali berguna saat pemrograman.
 
 Operator adalah karakter yang melakukan tugas dalam kode kita.
@@ -15,7 +15,7 @@ console.log(3 + 4); // Hasil 7
 console.log(5 - 1); // Hasil 4
 console.log(4 * 2); // Hasil 8
 console.log(9 / 3); // Hasil 3
-console.log(11 % 3) // Hasil 2*/
+console.log(11 % 3) // Hasil 2\n`)
 
 console.log('Kode: console.log(19+3.5)')
 console.log(19+3.5)
