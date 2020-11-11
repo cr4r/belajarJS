@@ -1,4 +1,5 @@
-# PENGANTAR JAVASCRIPT
+# Tempat Belajar Bahasa JS
+## PENGANTAR JAVASCRIPT
 Belajar bahasa js menggunakan node yang sudah terinstall<br><br>
 Apa itu JavaScript?<br>
 Tahun lalu, jutaan pelajar dari komunitas kami memulai dengan JavaScript. Mengapa? JavaScript terutama dikenal sebagai bahasa sebagian<br>
@@ -8,6 +9,7 @@ Karena JavaScript tetap menjadi inti dari pengembangan web, JavaScript sering ka
 kode otodidak yang ingin belajar dan membangun. <br>
 Dalam pelajaran ini, Anda akan mempelajari konsep pengkodean pengantar termasuk tipe data dan objek bawaan — pengetahuan penting untuk semua calon pengembang. Pastikan untuk membuat catatan dan mengatur kecepatan Anda sendiri. Landasan ini akan mempersiapkan Anda untuk memahami konsep yang lebih kompleks yang akan Anda temui nanti.
 <br><br>
+
 ## Install Node
 Untuk install Nodejs anda bisa menginstall nya di distro debian/ubuntu<br>
 ```bash
@@ -18,3 +20,13 @@ atau
 sudo su
 ./installNode
 ```
+
+## Cara Belajar
+```bash
+node index.js
+```
+atau 
+```bash
+node 1-console.js
+```
+dst...

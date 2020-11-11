@@ -1,7 +1,6 @@
 var rl = require('readline-sync').question;
-var {exec} = require('child_process');
-var b='y'
 
+var b='y'
 while (b=='y'){
 a = rl(`Pilih salah satu
 1. Console
