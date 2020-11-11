@@ -1,10 +1,13 @@
+var rl = require('readline-sync').question;
+
 console.log(`Operator Aritmatika
 Aritmatika dasar sering kali berguna saat pemrograman.
 
 Operator adalah karakter yang melakukan tugas dalam kode kita.
-JavaScript memiliki beberapa operator aritmatika bawaan, yang memungkinkan kita melakukan kalkulasi matematis pada angka.
+JavaScript memiliki beberapa operator aritmatika bawaan, yang memungkinkan kita melakukan kalkulasi matematis pada angka.`)
+rl("Enter untuk melanjutkan");
+console.log(`
 Ini termasuk operator berikut dan simbolnya yang sesuai:
-
 Tambahkan: +
 Kurangi: -
 Kalikan: *
@@ -16,12 +19,19 @@ console.log(5 - 1); // Hasil 4
 console.log(4 * 2); // Hasil 8
 console.log(9 / 3); // Hasil 3
 console.log(11 % 3) // Hasil 2\n`)
+rl("Enter untuk melanjutkan");
 
 console.log('Kode: console.log(19+3.5)')
 console.log(19+3.5) //kode
+rl("Enter untuk melanjutkan");
+
 console.log('\nKode: console.log(2020-1969)')
 console.log(2020-1969)//kode
+rl("Enter untuk melanjutkan");
+
 console.log('\nKode: console.log(65/240)')
 console.log(65/240)//kode
+rl("Enter untuk melanjutkan");
+
 console.log('\nKode: console.log(0.2708*100)')
 console.log(0.2708*100)//kode
